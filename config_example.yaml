@@ -1,0 +1,17 @@
+TAVILY_API_KEY: my_example123
+
+#LangChain
+LANGCHAIN_API_KEY: my_example123
+LANGCHAIN_TRACING_V2: true
+LANGCHAIN_ENDPOINT: "https://my_example123"
+LANGCHAIN_PROJECT: my_example123
+
+#OpenAI
+OPENAI_API_KEY: my_example123
+OPENAI_DEFAULT_MODEL: gpt-4-o
+OPENAI_EMBEDDING_MODEL: text-embedding-3-small
+
+#Together
+TOGETHER_API_KEY: my_example123
+DEFAULT_TOGETHER_LLM: my_example123
+
