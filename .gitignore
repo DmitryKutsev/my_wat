@@ -1,0 +1,49 @@
+config.yaml
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+
+# Dependency and build files
+*.egg-info/
+*.egg
+build/
+dist/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment variables & secrets
+config.yaml
+config.json
+.env
+.envrc
+
+# Logs and debugging files
+*.log
+*.out
+*.err
+
+# IDE and editor files
+# VS Code
+.vscode/
+
+# JetBrains (PyCharm, IntelliJ)
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Data and temporary files
