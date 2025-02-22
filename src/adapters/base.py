@@ -2,7 +2,7 @@
 import os
 
 from abc import ABC, abstractmethod
-from settings import settings
+from config import settings
 
 
 # Enable LangChain Tracing (requires LangSmith API key)
